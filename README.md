@@ -42,7 +42,7 @@ github에서 받은 academy.zip 파일을 선택
 finish 버튼을 클릭
 ![alt text](img/05_import_finish.png)
 
-반입된 소스는 에러가 발생할 것이다. 
+반입된 소스는 에러가 발생할 것이다 
 Transformation Advisor가 reporting한 정보를 기반으로 에러를 수정
 ![alt text](img/06_import_complete.png)
 
