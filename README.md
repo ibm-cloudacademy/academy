@@ -27,31 +27,32 @@ FROM websphere-liberty
 
 ## git 에서 소스를 받아서 sts에 import 하십시요
 아래 github에서 source 받아서 sts tool에서 반입(Import)하십시요
-  https://github.com/ibm-cloudacademy/academy.git 
+https://github.com/ibm-cloudacademy/academy.git 
+
 ![alt text](img/01_import_academy.png)
 
-Existing Projects into Workspace를 선택
+## Existing Projects into Workspace를 선택
 ![alt text](img/02_existing_project.png)
 
-select archive file을 선택
+## select archive file을 선택
 ![alt text](img/03_import_project.png)
 
-github에서 받은 academy.zip 파일을 선택
+## github에서 받은 academy.zip 파일을 선택
 ![alt text](img/04_select_zip.png)
 
-finish 버튼을 클릭
+## finish 버튼을 클릭
 ![alt text](img/05_import_finish.png)
 
-반입된 소스는 에러가 발생할 것이다 
+## 반입된 소스는 에러가 발생할 것이다 
 Transformation Advisor가 reporting한 정보를 기반으로 에러를 수정
 ![alt text](img/06_import_complete.png)
 
-pom 파일선택
+## pom 파일선택
 ![alt text](img/07_select_pom.png)
 
-maven install
+## maven install
 ![alt text](img/08_maven_install.png)
 
-result war file
+## result war file
 ![alt text](img/09_result_war.png)
 
